@@ -1,0 +1,29 @@
+footer
+{
+width: 100%;
+background-color: orange;
+padding-bottom: : 20px 0px;   
+}
+
+body
+{
+   background-color: tan;
+   font-family: arial;
+
+}
+
+.wrapper
+{
+width: 800px;
+margin: 0 auto;
+border: solid 5px;
+}
+
+
+div
+{
+border-style: solid; 
+border-color: black;
+border-width: 2px;
+
+}
